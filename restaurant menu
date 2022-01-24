@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant menu</title>
+</head>
+
+<body>
+    <center>
+        <table width ="75%" bordercolor="#000000" bordercolourdark="#000000" collspacing ="0">
+        <tr align="center">
+            <th align="center" colspan="6>"
+                <h1  style="text-align: center ;" ;> RESTAURANT MENU </h1></th>  
+       
+            <td align="center"><mark><fontcolor="tomato"> Item</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Price</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Item</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Price</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Item</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Price</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Item</fontcolor></mark></td>
+            <td align="center"><mark><fontcolor="tomato"> Price</fontcolor></mark></td>
+         
+        </tr>
+        <tr bgcolor="#cccccc">
+            <td align="center" > <strong>Shahi Panner</strong></td>
+            <td align="center"> 250.00</td>
+            <td align="center" > <strong>Chaat</strong></td>
+            <td align="center"> 50.00</td>
+            <td align="center" > <strong>Dhokla</strong></td>
+            <td align="center"> 100.00</td>
+            <td align="center" > <strong>Malai kofta</strong></td>
+            <td align="center"> 250.00</td>
+        </tr>
+        <br>
+        <tr>
+            <td align="center" > <strong>Mix veg</strong></td>
+            <td align="center"> 99.00</td>
+            <td align="center" > <strong>Laccha paratha</strong></td>
+            <td align="center"> 50.00</td>
+            <td align="center" > <strong>Rayta</strong></td>
+            <td align="center"> 91.00</td>
+            <td align="center" > <strong>Gulab jamun</strong></td>
+            <td align="center"> 140.00</td>
+        </tr>
+
+        <tr>
+            <td align="center" > <strong>Rajma </strong></td>
+            <td align="center"> 199.00</td>
+            <td align="center" > <strong>Veg fried rice</strong></td>
+            <td align="center"> 150.00</td>
+            <td align="center" > <strong>Tomato soup</strong></td>
+            <td align="center"> 99.00</td>
+            <td align="center" > <strong>Uttapam</strong></td>
+            <td align="center"> 100.00</td>
+        </tr>
+    
+        
+    
+</table>
+
+    </body>
+</body>
+</html>
